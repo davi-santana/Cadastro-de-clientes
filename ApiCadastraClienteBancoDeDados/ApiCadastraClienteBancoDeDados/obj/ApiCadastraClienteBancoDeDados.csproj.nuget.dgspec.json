@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\davis\\OneDrive\\Documentos\\exercicios\\ExercicioMicroServiços\\ApiCadastraClienteBancoDeDados\\ApiCadastraClienteBancoDeDados\\ApiCadastraClienteBancoDeDados.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\davis\\OneDrive\\Documentos\\exercicios\\ExercicioMicroServiços\\ApiCadastraClienteBancoDeDados\\ApiCadastraClienteBancoDeDados\\ApiCadastraClienteBancoDeDados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\davis\\OneDrive\\Documentos\\exercicios\\ExercicioMicroServiços\\ApiCadastraClienteBancoDeDados\\ApiCadastraClienteBancoDeDados\\ApiCadastraClienteBancoDeDados.csproj",
+        "projectName": "ApiCadastraClienteBancoDeDados",
+        "projectPath": "C:\\Users\\davis\\OneDrive\\Documentos\\exercicios\\ExercicioMicroServiços\\ApiCadastraClienteBancoDeDados\\ApiCadastraClienteBancoDeDados\\ApiCadastraClienteBancoDeDados.csproj",
+        "packagesPath": "C:\\Users\\davis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davis\\OneDrive\\Documentos\\exercicios\\ExercicioMicroServiços\\ApiCadastraClienteBancoDeDados\\ApiCadastraClienteBancoDeDados\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\davis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Caelum.Stella.CSharp": {
+              "target": "Package",
+              "version": "[1.4.7, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.18, 3.1.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

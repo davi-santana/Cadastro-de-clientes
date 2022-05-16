@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCadastraClienteBancoDeDados", "ApiCadastraClienteBancoDeDados\ApiCadastraClienteBancoDeDados.csproj", "{E64AF46B-F6FD-438C-A23D-B5C8039FF3D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64AF46B-F6FD-438C-A23D-B5C8039FF3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64AF46B-F6FD-438C-A23D-B5C8039FF3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64AF46B-F6FD-438C-A23D-B5C8039FF3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64AF46B-F6FD-438C-A23D-B5C8039FF3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51B2DD85-D8E8-4288-8FDF-50EA0A686D3A}
+	EndGlobalSection
+EndGlobal
